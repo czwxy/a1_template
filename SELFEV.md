@@ -22,7 +22,7 @@ your full name - your student number - your canvas student login
 
 ## Part 1
 #### Self Evaluated Marks (3 marks):
-0
+3
 > Please replace the above 0 with the mark you think you earned for this part. Consider how many (yours/ours) tests pass, the quality of your code, what you learnt, and [mainly for the final task] the quality of the tests that you wrote
 #### Code Performance
 This graph is just an example of how you can include your plots in markdown. **Please remove it in your final submission**
